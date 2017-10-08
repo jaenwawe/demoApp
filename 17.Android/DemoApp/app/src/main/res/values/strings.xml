@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo App</string>
+    <string name="message_line">Demo App</string>
+    <string name="to_line">To</string>
+    <string name="subject_line">Subject</string>
+    <string name="send_line">Send</string>
+</resources>
